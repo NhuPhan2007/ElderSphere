@@ -29,6 +29,8 @@ export enum EAuthorName {
   BANGKIEU = 'Bằng Kiều',
   QUANGLE = 'Quang Lê',
   HOANGTHUCLINH = 'Hoàng Thục Linh',
+  NHUQUYNH = 'Như Quỳnh',
+  PHUONGANH = 'Phương Anh',
 }
 
 export interface IMusic extends Track {
