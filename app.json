@@ -1,42 +1,31 @@
 {
   "expo": {
-    "name": "template-expo-app",
-    "slug": "template-expo-app",
+    "name": "Elder",
+    "slug": "elder",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "template-app",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "updates": {
+      "enabled": true
+    },
     "ios": {
-      "supportsTablet": true,
-      "infoPlist": {
-        "UIBackgroundModes": [
-          "audio"
-        ]
-      },
-      "bundleIdentifier": "com.anonymous.template-expo-app"
+      "bundleIdentifier": "com.liorionnguyen.elder"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.kite.eldersphere"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.liorionnguyen.elder"
     },
     "plugins": [
       "expo-router"
     ],
-    "experiments": {
-      "typedRoutes": true,
-      "tsconfigPaths": true
+    "extra": {
+      "eas": {
+        "projectId": "075a0adc-ae20-441b-8139-12f18bf19f8c"
+      }
     }
   }
 }
