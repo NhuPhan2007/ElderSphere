@@ -21,5 +21,7 @@ Elder Sphere works well on both IOS and Android devices.
   - **Realtime Database** enables live updates to technology guides, music playlists, exercise routines, and more, ensuring that seniors always have access to the latest content.
   - **File Storage** stores large amounts of content, like music and reading materials, allowing seniors to access a diverse range of media without overwhelming their device storage.
 
+[Install](https://drive.google.com/file/d/1BOWXqZDECBEeFzp0-iB3Q0VH5cV-nX5S/view?usp=sharing)
+
 # Demo
 [![Xem video](./assets/screens/image.png)(./)](https://firebasestorage.googleapis.com/v0/b/food-donation-98ef2.appspot.com/o/QuynhNhu%2FScreen_recording_20241029_072118.mp4?alt=media&token=e2d6663a-ee7f-4e12-a40c-f30e4f42358b)
